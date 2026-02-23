@@ -76,17 +76,3 @@ python task2_list_slicing.py
 - Strengthen foundational Python programming skills
 - Improve problem-solving ability
 
----
-
-## 🛠 Requirements
-
-- Python 3.x
-
----
-
-### 📌 Author
-Your Name
-
----
-
-⭐ If you found this helpful, feel free to star the repository!
